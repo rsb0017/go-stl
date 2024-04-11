@@ -1,5 +1,7 @@
 package main
 
-func main(){
-    fmt.Println("Hello stl")
+import "fmt"
+
+func main() {
+	fmt.Println("Hello stl")
 }
